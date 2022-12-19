@@ -5,4 +5,4 @@ Repositório criado para concluir o desafio de projeto de criar calculadora com 
 :star2: Objetivos :star2:
 
 - [x] Criar Calculadora com React
-- [ ] Fazer  calcular a multiplicação e divisão
+- [x] Fazer  calcular a multiplicação e divisão
